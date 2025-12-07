@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a French developer 🇫🇷, always learning and experimenting with code.  
+💻 Tools I use: VS Code, Git, and anything that helps me build cool projects.  
+🛠️ Languages I work with: C, C++, Python.  
+⚡ I spend a lot of time programming embedded systems for microcontrollers and tinkering with electronics.
+
 <!--
 **Stawax/Stawax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
